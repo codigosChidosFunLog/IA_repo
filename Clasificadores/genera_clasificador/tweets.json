@@ -1,0 +1,17 @@
+{
+	"Tweets" : [
+		{"Stream":true, "texto":"Seguimos dandole al Crash 4"},
+		{"Stream":false, "texto":"Te exploto la cabeza lo se"},
+        {"Stream":true, "texto":"Vamos a darle a Among Us con famosos"},
+		{"Stream":false, "texto":"El regreso de AMÉN está cerca"},
+        {"Stream":true, "texto":"Vamos a probar el XBOX SERIES X"},
+		{"Stream":false, "texto":"Digan la neta quien abrio facebook solo para esto jajaja"},
+        {"Stream":true, "texto":"Vamos a darle al Among Us con los compas"},
+		{"Stream":false, "texto":"Quiénes son Solo respuestas incorrectas"},
+        {"Stream":true, "texto":"Vengan a pasar el rato con Among Us y Reseñadores"},
+		{"Stream":false, "texto":"Buenos dias jovenes"}
+	],
+  "Exclusiones" : [
+    "al", "4", "Te", "la", "lo", "a", "con", "El", "de", "está", "cerca", "X", "quien", "para", "jajaja",
+  "con", "Quiénes", "y", "el", "los"]
+}
